@@ -5,6 +5,7 @@
 h1{
     text-align: center;
     background-color: gold;
+    padding: 5px bottom;
 }
 
 .row{
@@ -12,6 +13,5 @@ h1{
 }
 
 .col-sm{
-    border-color: green;
-    padding: 5px;
+    padding: 10px;
 }
