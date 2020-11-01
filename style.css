@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    background-color: gold;
+}
+
+.row{
+    text-align: center;
+}
+
+.col-sm{
+    border-color: green;
+    padding: 5px;
+}
